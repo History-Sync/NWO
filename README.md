@@ -1,2 +1,2 @@
-# Wood-County-History
-A virtual museum of Wood County History.
+# Northwest Ohio History
+A virtual museum of Northwest Ohio History.
